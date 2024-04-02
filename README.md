@@ -1,16 +1,11 @@
 # flutter_minimalist_weatherapp
 
-A new Flutter project.
+Created a Minimalistic WeatherApp using Flutter & Dart. 
 
-## Getting Started
+The working is very simple, the app requests location permission from the user. Upon granting permission, the app detects the user's current location and displays the following information - 
 
-This project is a starting point for a Flutter application.
+> - **Current City Name:** The app displays the name of the city where the user is located.
+> - **Weather Representation:** An image corresponding to the current weather conditions is shown.
+> - **Average Temperature:** The average temperature of the user's city is displayed.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
